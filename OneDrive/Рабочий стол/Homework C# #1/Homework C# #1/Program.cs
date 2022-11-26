@@ -5,7 +5,7 @@
 // a = -9 b = -3 -> max = -3
 
 Console.Clear();
-Console.WriteLine("Напишите перове число"); 
+Console.WriteLine("Напишите первое число"); 
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Напишите второе число"); 
 int numberB = Convert.ToInt32(Console.ReadLine());
